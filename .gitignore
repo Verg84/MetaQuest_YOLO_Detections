@@ -8,6 +8,7 @@
 /.vs/
 /.idea/
 
+
 *.csproj
 *.sln
 *.suo
@@ -18,5 +19,6 @@
 
 .env
 .env.*
+.venv/
 __pycache__/
 /Server/yolo11n.pt
